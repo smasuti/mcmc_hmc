@@ -8,6 +8,3 @@ uses a simple forward model of the form dobs=m1*x+m2. Hamiltonian sampling is de
 After running the example you will see the posterior plotted something like below.
 
 ![](posterior.png) 
-
-Feel free to use this code as you like. You may or may not acknowledge me and thats
-perfectly fine.
